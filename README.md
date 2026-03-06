@@ -54,19 +54,6 @@ Built using modern web technologies, this project demonstrates strong concepts o
 
 ---
 
-# 🚀 Live Project Demo
-
-🎥 **Watch the working demo below**
-
-Demo Video:  
-(Add your demo video link here)
-
-Example:
-
-https://youtube.com/your-demo-video
-
----
-
 # ✨ Features
 
 ## 🔐 User Authentication
