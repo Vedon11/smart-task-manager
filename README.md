@@ -10,10 +10,9 @@ Built using modern web technologies, this project demonstrates strong concepts o
 
 # 🚀 Live Project Demo
 
-🎥 **Watch the working demo below**
-
-Demo Video:  
 C:\Users\Vedika\smart-task-manager1\Recording 2026-03-07 005155.mp4
+
+---
 
 # ✨ Features
 
@@ -216,123 +215,6 @@ Features include:
 
 # 📂 Project Structure
 
-With interactive status buttons:
-
-- ▶ Start Task
-- ✔ Complete Task
-- 🔁 Reset Task
-
----
-
-## 🏷 Priority Tag System
-
-Each task has a **priority level**:
-
-- 🟢 Low Priority
-- 🟡 Medium Priority
-- 🔴 High Priority
-
-Priority tags appear beside the task title for better visibility.
-
----
-
-## 📅 Due Date Tracking
-
-Users can set a **due date** while creating a task.
-
-The due date is displayed directly on the task card to help users stay organized and meet deadlines.
-
----
-
-## 🔍 Search, Filter & Sort
-
-The dashboard provides powerful task management tools:
-
-### 🔎 Search
-
-Search tasks instantly by title.
-
-### 📂 Filter
-
-Filter tasks by status:
-
-- All Tasks
-- Pending
-- In Progress
-- Completed
-
-### 📊 Sort
-
-Tasks can be sorted by:
-
-- Newest Tasks
-- Priority Level
-
----
-
-## 📈 Progress Tracking
-
-The dashboard automatically calculates:
-
-- Total Tasks
-- Completed Tasks
-- Completion Percentage
-
-A **dynamic progress bar** visually shows the user's productivity.
-
----
-
-## 🌙 Dark Mode
-
-The application includes a **Dark / Light Theme Toggle** for a better user experience.
-
-Features include:
-
-- Dark themed dashboard
-- Glowing cards in dark mode
-- Improved readability
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- React.js
-- Tailwind CSS
-- React Router
-- React Hot Toast
-- React Icons
-- Axios
-
----
-
-## Backend
-
-- Node.js
-- Express.js
-- REST API
-
----
-
-## Database
-
-- MongoDB
-- Mongoose
-
----
-
-## Tools & Development
-
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-# 📂 Project Structure
-
 smart-task-manager
 │
 ├── backend
@@ -362,8 +244,6 @@ git clone https://github.com/Vedon11/smart-task-manager.git
 
 ## 2️⃣ Backend Setup
 
-## 2️⃣ Backend Setup
-
 cd backend
 npm install
 npm run server
@@ -381,7 +261,6 @@ Open a new terminal:
 cd smart-task-frontend
 npm install
 npm run dev
-
 Frontend runs on:
 
 http://localhost:5173
