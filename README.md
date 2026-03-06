@@ -13,13 +13,7 @@ Built using modern web technologies, this project demonstrates strong concepts o
 🎥 **Watch the working demo below**
 
 Demo Video:  
-(Add your demo video link here)
-
-Example:
-
-https://youtube.com/your-demo-video
-
----
+C:\Users\Vedika\smart-task-manager1\Recording 2026-03-07 005155.mp4
 
 # ✨ Features
 
