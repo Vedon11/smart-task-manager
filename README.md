@@ -12,7 +12,7 @@ Built using modern web technologies, this project demonstrates strong concepts o
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/Vedon11/smart-task-manager/blob/main/Recording%202026-03-07%20005155.mp4" width="600">
+    <img src="Recording 2026-03-07 005155.mp4" width="600">
   </kbd>
   <br>
   <em>live demo video of Smart-Task-Manager</em>
