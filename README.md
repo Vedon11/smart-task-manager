@@ -12,10 +12,10 @@ Built using modern web technologies, this project demonstrates strong concepts o
 
 <p align="center">
   <kbd>
-    <img src="ScreenRecording2026-03-07003606-ezgif.com-video-to-gif-converter.gif" width="600">
+    <img src="C:\Users\Vedika\smart-task-manager1\Recording 2026-03-07 005155.mp4" width="600">
   </kbd>
   <br>
-  <em>Real-time vehicle detection and toll-release logic in action</em>
+  <em>live demo video of Smart-Task-Manager</em>
 </p>
 
 ---
