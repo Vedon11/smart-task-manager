@@ -12,7 +12,7 @@ Built using modern web technologies, this project demonstrates strong concepts o
 
 <p align="center">
   <kbd>
-    <img src="Video/demo.gif" width="600">
+    <img src="Video/Video3.gif" width="600">
   </kbd>
   <br>
   <em>Real-time Smart Task Manager Tracking</em>
