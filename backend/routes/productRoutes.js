@@ -97,6 +97,7 @@ router.delete("/:id", protect, adminOnly, async (req, res) => {
 });
 
 module.exports = router;
+/*
 You said:
 Perfect 👌
 This is the correct mindset before starting a serious project.
@@ -5184,7 +5185,7 @@ const router = express.Router();
 
 /* =========================================
    CREATE PRODUCT (Admin Only)
-========================================= */
+========================================= 
 router.post("/", protect, adminOnly, async (req, res) => {
   try {
     const { name, price, description } = req.body;
@@ -5203,7 +5204,7 @@ router.post("/", protect, adminOnly, async (req, res) => {
 
 /* =========================================
    GET ALL PRODUCTS (Public)
-========================================= */
+========================================= 
 router.get("/", async (req, res) => {
   try {
     const products = await Product.find();
@@ -5215,7 +5216,7 @@ router.get("/", async (req, res) => {
 
 /* =========================================
    GET SINGLE PRODUCT BY ID (Public)
-========================================= */
+========================================= 
 router.get("/:id", async (req, res) => {
   try {
     const product = await Product.findById(req.params.id);
@@ -5232,7 +5233,7 @@ router.get("/:id", async (req, res) => {
 
 /* =========================================
    UPDATE PRODUCT (Admin Only)
-========================================= */
+========================================= 
 router.put("/:id", protect, adminOnly, async (req, res) => {
   try {
     const { name, price, description } = req.body;
@@ -5257,7 +5258,7 @@ router.put("/:id", protect, adminOnly, async (req, res) => {
 
 /* =========================================
    DELETE PRODUCT (Admin Only)
-========================================= */
+========================================= 
 router.delete("/:id", protect, adminOnly, async (req, res) => {
   try {
     const product = await Product.findById(req.params.id);
@@ -5726,4 +5727,4 @@ If this is for college / portfolio / resume, I suggest:
 👉 Start clean and build proper Smart Task Manager backend.
 
 Reply with A, B, or C.
-We’ll align the project properly and make it strong 💪( this whole chat confused me a lot now what to do do you want me to show all my files codes  do to chatgpt shift from normal to developer mode  where memory is not used and unable to connect my projecct so lets clean my project mess , read this carefully and what went wrong and do you want me to show all files so now lets clean it toger
+We’ll align the project properly and make it strong 💪( this whole chat confused me a lot now what to do do you want me to show all my files codes  do to chatgpt shift from normal to developer mode  where memory is not used and unable to connect my projecct so lets clean my project mess , read this carefully and what went wrong and do you want me to show all files so now lets clean it toger*/
